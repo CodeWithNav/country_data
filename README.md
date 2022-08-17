@@ -1,7 +1,7 @@
 # Country Data
 A Package That Provide Country Data Like Name, PhoneCode, Currency, States and Cities etc.
 Purely Written in Dart.
-
+![example](https://github.com/CodeWithNav/country_data/blob/main/git_data/example.gif)
 ## Features
 * Get List of Countries
 ```dart

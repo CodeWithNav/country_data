@@ -1,3 +1,6 @@
-## 0.0.1
+## 0.0.2
+example added
 
-* TODO: Describe initial release.
+
+## 0.0.1
+initial

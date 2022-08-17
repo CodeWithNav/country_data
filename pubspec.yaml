@@ -1,6 +1,6 @@
 name: country_data
 description: A Package That Provide Country Data Like Name, PhoneCode, Currency, States and Cities etc.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/CodeWithNav/country_data
 
 environment:

@@ -30,9 +30,13 @@ Purely Written in Dart.
  ```dart
     List<String> cities = CountryData().getCities(countryId:'IN',state:'Punjab');
  ```
+ ## Support
+<a href="https://www.buymeacoffee.com/navslaich" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## Getting Started
 This project is a starting point for a Dart package, a library module containing code that can be shared easily across multiple Flutter or Dart projects.
 
 For help getting started with Flutter, view our online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+
 ## Contributions
 Contributions of any kind are more than welcome! Feel free to fork and improve country_data in any way you want, make a pull request, or open an issue.
